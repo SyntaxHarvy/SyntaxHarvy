@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SyntaxHarvy
 - 👀 I’m interested in Fimware development and mobile apps.
-- 🌱 I’m currently learning dart backend and flutter
-- 💞️ I’m looking to collaborate on dart api.
+- 🌱 I’m currently working on my IOT Library for Arduino
+- 💞️ I’m looking to collaborate on any IOT projects
 - 📫 How to reach me ...
 
 <!---
